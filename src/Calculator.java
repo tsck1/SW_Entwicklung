@@ -4,7 +4,7 @@ public class Calculator {
        int thomas = 1;
        boolean karin = false;
        double a = 3;
-       char x = 'f';
+       char x = 'f';// immer mit''
        String Gedicht = "versuch" ;
 
         System.out.println( thomas );
